@@ -186,7 +186,7 @@ public final class PixelPropsUtils {
         propsToChangePixelXL.put("PRODUCT", "marlin");
         propsToChangePixelXL.put("HARDWARE", "marlin");
         propsToChangePixelXL.put("MODEL", "Pixel XL");
-        propsToChangePixelXL.put("ID", "");
+        propsToChangePixelXL.put("ID", "BP2A.250605.031.A2");
         propsToChangePixelXL.put("FINGERPRINT", "google/marlin/marlin:16/BP2A.250605.031.A2/13578606:user/release-keys");
         propsToChangeROG6 = new HashMap<>();
         propsToChangeROG6.put("BRAND", "asus");
