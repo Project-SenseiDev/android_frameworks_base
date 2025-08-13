@@ -168,8 +168,8 @@ public final class PixelPropsUtils {
         propsToChangePixel9ProXL.put("PRODUCT", "komodo");
         propsToChangePixel9ProXL.put("HARDWARE", "komodo");
         propsToChangePixel9ProXL.put("MODEL", "Pixel 9 Pro XL");
-        propsToChangePixel9ProXL.put("ID", "BP2A.250605.031.A2");
-        propsToChangePixel9ProXL.put("FINGERPRINT", "google/komodo/komodo:16/BP2A.250605.031.A2/13578606:user/release-keys");
+        propsToChangePixel9ProXL.put("ID", "BP1A.250505.005");
+        propsToChangePixel9ProXL.put("FINGERPRINT", "google/komodo/komodo:15/BP1A.250505.005/13277524:user/release-keys");
         propsToChangePixelTablet = new HashMap<>();
         propsToChangePixelTablet.put("BRAND", "google");
         propsToChangePixelTablet.put("MANUFACTURER", "Google");
@@ -177,8 +177,8 @@ public final class PixelPropsUtils {
         propsToChangePixelTablet.put("PRODUCT", "tangorpro");
         propsToChangePixelTablet.put("HARDWARE", "tangorpro");
         propsToChangePixelTablet.put("MODEL", "Pixel Tablet");
-        propsToChangePixelTablet.put("ID", "BP2A.250605.031.A2");
-        propsToChangePixelTablet.put("FINGERPRINT", "google/tangorpro/tangorpro:16/BP2A.250605.031.A2/13578606:user/release-keys");
+        propsToChangePixelTablet.put("ID", "BP1A.250505.005");
+        propsToChangePixelTablet.put("FINGERPRINT", "google/tangorpro/tangorpro:15/BP1A.250505.005/13277524:user/release-keys");
         propsToChangePixelXL = new HashMap<>();
         propsToChangePixelXL.put("BRAND", "google");
         propsToChangePixelXL.put("MANUFACTURER", "Google");
@@ -186,8 +186,8 @@ public final class PixelPropsUtils {
         propsToChangePixelXL.put("PRODUCT", "marlin");
         propsToChangePixelXL.put("HARDWARE", "marlin");
         propsToChangePixelXL.put("MODEL", "Pixel XL");
-        propsToChangePixelXL.put("ID", "BP2A.250605.031.A2");
-        propsToChangePixelXL.put("FINGERPRINT", "google/marlin/marlin:16/BP2A.250605.031.A2/13578606:user/release-keys");
+        propsToChangePixelXL.put("ID", "QP1A.191005.007.A3");
+        propsToChangePixelXL.put("FINGERPRINT", "google/marlin/marlin:10/QP1A.191005.007.A3/5972272:user/release-keys");
         propsToChangeROG6 = new HashMap<>();
         propsToChangeROG6.put("BRAND", "asus");
         propsToChangeROG6.put("MANUFACTURER", "asus");
